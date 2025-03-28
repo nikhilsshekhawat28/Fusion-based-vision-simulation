@@ -1,0 +1,34 @@
+# Ultralytics YOLOv8 for object detection
+ultralytics==8.1.15  
+
+# Box fusion ensemble
+ensemble-boxes==1.0.9  
+
+# OpenCV for image processing
+opencv-python==4.8.0.76  
+
+# PyTorch (use the appropriate version for your GPU/CPU)
+torch==2.1.0      
+torchvision==0.16.0
+
+# NumPy for numerical operations
+numpy==1.24.4  
+
+# TCP communication and struct packing
+structlog==23.1.0  
+
+
+
+
+
+
+#MATLAB Add-ons
+
+MATLAB                                                Version 24.2        (R2024b)
+Simulink                                              Version 24.2        (R2024b)
+Computer Vision Toolbox                               Version 24.2        (R2024b)
+Image Processing Toolbox                              Version 24.2        (R2024b)
+Instrument Control Toolbox                            Version 24.2        (R2024b)
+Robotics System Toolbox                               Version 24.2        (R2024b)
+Simscape                                              Version 24.2        (R2024b)
+Simscape Multibody                                    Version 24.2        (R2024b)
